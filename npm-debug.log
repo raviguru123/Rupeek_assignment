@@ -1,0 +1,1345 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/ravikumarguru/.nvm/versions/node/v4.5.0/bin/node',
+1 verbose cli   '/Users/ravikumarguru/.nvm/versions/node/v4.5.0/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'xml2json',
+1 verbose cli   '--save' ]
+2 info using npm@2.15.9
+3 info using node@v4.5.0
+4 verbose install initial load of /Users/ravikumarguru/Rupeek_assignment/package.json
+5 warn package.json rupeek_assignment@1.0.0 No description
+6 warn package.json rupeek_assignment@1.0.0 No repository field.
+7 warn package.json rupeek_assignment@1.0.0 No README data
+8 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/ajv/package.json
+9 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/asn1/package.json
+10 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/assert-plus/package.json
+11 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/asynckit/package.json
+12 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/aws-sign2/package.json
+13 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/aws4/package.json
+14 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/bcrypt-pbkdf/package.json
+15 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/caseless/package.json
+16 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/combined-stream/package.json
+17 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/core-util-is/package.json
+18 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/dashdash/package.json
+19 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/delayed-stream/package.json
+20 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/ecc-jsbn/package.json
+21 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/extend/package.json
+22 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/extsprintf/package.json
+23 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/fast-deep-equal/package.json
+24 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/fast-json-stable-stringify/package.json
+25 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/forever-agent/package.json
+26 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/form-data/package.json
+27 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/getpass/package.json
+28 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/har-schema/package.json
+29 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/har-validator/package.json
+30 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/hoek/package.json
+31 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/http-signature/package.json
+32 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/is-typedarray/package.json
+33 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/isemail/package.json
+34 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/isstream/package.json
+35 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/joi/package.json
+36 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/jsbn/package.json
+37 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/json-schema/package.json
+38 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/json-schema-traverse/package.json
+39 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/json-stringify-safe/package.json
+40 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/jsprim/package.json
+41 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/mime-db/package.json
+42 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/mime-types/package.json
+43 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/oauth-sign/package.json
+44 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/performance-now/package.json
+45 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/psl/package.json
+46 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/punycode/package.json
+47 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/qs/package.json
+48 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/request/package.json
+49 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/safe-buffer/package.json
+50 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/safer-buffer/package.json
+51 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/sshpk/package.json
+52 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/topo/package.json
+53 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/tough-cookie/package.json
+54 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/tunnel-agent/package.json
+55 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/tweetnacl/package.json
+56 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/uri-js/package.json
+57 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/uuid/package.json
+58 verbose installManyTop reading scoped package data from /Users/ravikumarguru/Rupeek_assignment/node_modules/verror/package.json
+59 info package.json json-schema@0.2.3 No license field.
+60 info package.json punycode@2.1.1 punycode is also the name of a node core module.
+61 verbose readDependencies loading dependencies from /Users/ravikumarguru/Rupeek_assignment/package.json
+62 silly cache add args [ 'xml2json', null ]
+63 verbose cache add spec xml2json
+64 silly cache add parsed spec Result {
+64 silly cache add   raw: 'xml2json',
+64 silly cache add   scope: null,
+64 silly cache add   name: 'xml2json',
+64 silly cache add   rawSpec: '',
+64 silly cache add   spec: 'latest',
+64 silly cache add   type: 'tag' }
+65 silly addNamed xml2json@latest
+66 verbose addNamed "latest" is being treated as a dist-tag for xml2json
+67 info addNameTag [ 'xml2json', 'latest' ]
+68 silly mapToRegistry name xml2json
+69 silly mapToRegistry using default registry
+70 silly mapToRegistry registry https://registry.npmjs.org/
+71 silly mapToRegistry data Result {
+71 silly mapToRegistry   raw: 'xml2json',
+71 silly mapToRegistry   scope: null,
+71 silly mapToRegistry   name: 'xml2json',
+71 silly mapToRegistry   rawSpec: '',
+71 silly mapToRegistry   spec: 'latest',
+71 silly mapToRegistry   type: 'tag' }
+72 silly mapToRegistry uri https://registry.npmjs.org/xml2json
+73 verbose addNameTag registry:https://registry.npmjs.org/xml2json not in flight; fetching
+74 verbose request uri https://registry.npmjs.org/xml2json
+75 verbose request no auth needed
+76 info attempt registry request try #1 at 11:55:04 PM
+77 verbose request id ed441580abcd94f7
+78 verbose etag W/"8f432a36f589b0c968dcdc3983a6e3aa"
+79 verbose lastModified Sun, 27 May 2018 22:28:43 GMT
+80 http request GET https://registry.npmjs.org/xml2json
+81 http 304 https://registry.npmjs.org/xml2json
+82 verbose headers { date: 'Mon, 01 Jul 2019 18:25:06 GMT',
+82 verbose headers   connection: 'keep-alive',
+82 verbose headers   'set-cookie': [ '__cfduid=deb89385d60a89795933363e32420a75e1562005505; expires=Tue, 30-Jun-20 18:25:05 GMT; path=/; domain=.npmjs.org; HttpOnly' ],
+82 verbose headers   'cf-cache-status': 'REVALIDATED',
+82 verbose headers   'cache-control': 'max-age=300',
+82 verbose headers   'cf-ray': '4efa6ba9ab8baaf2-MAA',
+82 verbose headers   etag: '"8f432a36f589b0c968dcdc3983a6e3aa"',
+82 verbose headers   'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+82 verbose headers   'last-modified': 'Sun, 27 May 2018 22:28:43 GMT',
+82 verbose headers   vary: 'accept-encoding, accept',
+82 verbose headers   server: 'cloudflare' }
+83 silly get cb [ 304,
+83 silly get   { date: 'Mon, 01 Jul 2019 18:25:06 GMT',
+83 silly get     connection: 'keep-alive',
+83 silly get     'set-cookie': [ '__cfduid=deb89385d60a89795933363e32420a75e1562005505; expires=Tue, 30-Jun-20 18:25:05 GMT; path=/; domain=.npmjs.org; HttpOnly' ],
+83 silly get     'cf-cache-status': 'REVALIDATED',
+83 silly get     'cache-control': 'max-age=300',
+83 silly get     'cf-ray': '4efa6ba9ab8baaf2-MAA',
+83 silly get     etag: '"8f432a36f589b0c968dcdc3983a6e3aa"',
+83 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+83 silly get     'last-modified': 'Sun, 27 May 2018 22:28:43 GMT',
+83 silly get     vary: 'accept-encoding, accept',
+83 silly get     server: 'cloudflare' } ]
+84 verbose etag https://registry.npmjs.org/xml2json from cache
+85 verbose get saving xml2json to /Users/ravikumarguru/.npm/registry.npmjs.org/xml2json/.cache.json
+86 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+87 silly addNameTag next cb for xml2json with tag latest
+88 silly addNamed xml2json@0.11.2
+89 verbose addNamed "0.11.2" is a plain semver version for xml2json
+90 silly mapToRegistry name xml2json
+91 silly mapToRegistry using default registry
+92 silly mapToRegistry registry https://registry.npmjs.org/
+93 silly mapToRegistry data Result {
+93 silly mapToRegistry   raw: 'xml2json',
+93 silly mapToRegistry   scope: null,
+93 silly mapToRegistry   name: 'xml2json',
+93 silly mapToRegistry   rawSpec: '',
+93 silly mapToRegistry   spec: 'latest',
+93 silly mapToRegistry   type: 'tag' }
+94 silly mapToRegistry uri https://registry.npmjs.org/xml2json
+95 verbose addRemoteTarball https://registry.npmjs.org/xml2json/-/xml2json-0.11.2.tgz not in flight; adding
+96 verbose addRemoteTarball [ 'https://registry.npmjs.org/xml2json/-/xml2json-0.11.2.tgz',
+96 verbose addRemoteTarball   '70ddd234fd7818312cc58455cab8457b5bcc7c52' ]
+97 info retry fetch attempt 1 at 11:55:05 PM
+98 info attempt registry request try #1 at 11:55:05 PM
+99 http fetch GET https://registry.npmjs.org/xml2json/-/xml2json-0.11.2.tgz
+100 http fetch 200 https://registry.npmjs.org/xml2json/-/xml2json-0.11.2.tgz
+101 silly fetchAndShaCheck shasum 70ddd234fd7818312cc58455cab8457b5bcc7c52
+102 verbose addTmpTarball /var/folders/jw/46hv3swx55z9xrzcnddkkglc0000gp/T/npm-10245-8835b4c3/registry.npmjs.org/xml2json/-/xml2json-0.11.2.tgz not in flight; adding
+103 verbose addTmpTarball already have metadata; skipping unpack for xml2json@0.11.2
+104 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+105 silly cache afterAdd xml2json@0.11.2
+106 verbose afterAdd /Users/ravikumarguru/.npm/xml2json/0.11.2/package/package.json not in flight; writing
+107 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+108 verbose afterAdd /Users/ravikumarguru/.npm/xml2json/0.11.2/package/package.json written
+109 silly install resolved [ { name: 'xml2json',
+109 silly install resolved     version: '0.11.2',
+109 silly install resolved     description: 'Converts xml to json and vice-versa, using node-expat.',
+109 silly install resolved     repository:
+109 silly install resolved      { type: 'git',
+109 silly install resolved        url: 'git://github.com/buglabs/node-xml2json.git' },
+109 silly install resolved     license: 'MIT',
+109 silly install resolved     main: 'index',
+109 silly install resolved     scripts: { test: 'lab -a code -v -t 93 test/test.js' },
+109 silly install resolved     dependencies: { hoek: '^4.2.1', joi: '^13.1.2', 'node-expat': '^2.3.15' },
+109 silly install resolved     bin: { xml2json: 'bin/xml2json' },
+109 silly install resolved     devDependencies: { code: '^3.0.2', lab: '11.x.x' },
+109 silly install resolved     contributors:
+109 silly install resolved      [ [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object],
+109 silly install resolved        [Object] ],
+109 silly install resolved     gitHead: '64a58366fbef139b3be42ee96228bbda867654b1',
+109 silly install resolved     bugs: { url: 'https://github.com/buglabs/node-xml2json/issues' },
+109 silly install resolved     homepage: 'https://github.com/buglabs/node-xml2json#readme',
+109 silly install resolved     _id: 'xml2json@0.11.2',
+109 silly install resolved     _npmVersion: '5.6.0',
+109 silly install resolved     _nodeVersion: '9.8.0',
+109 silly install resolved     _npmUser: { name: 'c4milo', email: 'camilo.aguilar@gmail.com' },
+109 silly install resolved     maintainers: [ [Object], [Object] ],
+109 silly install resolved     dist:
+109 silly install resolved      { integrity: 'sha512-ZJpHpPOL0T5lOvAHMnWm59iQOPqNtam5t2TMUllWZ1k5Wm8L5YyvQnkeaVnRKCvDwY5EumqXWyOjjMdQVz272A==',
+109 silly install resolved        shasum: '70ddd234fd7818312cc58455cab8457b5bcc7c52',
+109 silly install resolved        tarball: 'https://registry.npmjs.org/xml2json/-/xml2json-0.11.2.tgz',
+109 silly install resolved        fileCount: 45,
+109 silly install resolved        unpackedSize: 88855 },
+109 silly install resolved     directories: {},
+109 silly install resolved     _npmOperationalInternal:
+109 silly install resolved      { host: 's3://npm-registry-packages',
+109 silly install resolved        tmp: 'tmp/xml2json_0.11.2_1522012469232_0.044561029298955335' },
+109 silly install resolved     _shasum: '70ddd234fd7818312cc58455cab8457b5bcc7c52',
+109 silly install resolved     _resolved: 'https://registry.npmjs.org/xml2json/-/xml2json-0.11.2.tgz',
+109 silly install resolved     _from: 'xml2json@latest' } ]
+110 info install xml2json@0.11.2 into /Users/ravikumarguru/Rupeek_assignment
+111 info installOne xml2json@0.11.2
+112 verbose installOne of xml2json to /Users/ravikumarguru/Rupeek_assignment not in flight; installing
+113 verbose correctMkdir /Users/ravikumarguru/.npm/_locks correctMkdir not in flight; initializing
+114 verbose lock using /Users/ravikumarguru/.npm/_locks/xml2json-e05aa0d035b2b353.lock for /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json
+115 silly install write writing xml2json 0.11.2 to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json
+116 verbose unbuild node_modules/xml2json
+117 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json is being purged from base /Users/ravikumarguru/Rupeek_assignment
+118 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json
+119 verbose tar unpack /Users/ravikumarguru/.npm/xml2json/0.11.2/package.tgz
+120 verbose tar unpacking to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json
+121 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json is being purged
+122 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json
+123 silly gunzTarPerm modes [ '755', '644' ]
+124 silly gunzTarPerm extractEntry package.json
+125 silly gunzTarPerm extractEntry .editorconfig
+126 silly gunzTarPerm modified mode [ '.editorconfig', 436, 420 ]
+127 silly gunzTarPerm extractEntry .travis.yml
+128 silly gunzTarPerm extractEntry AUTHORS
+129 silly gunzTarPerm extractEntry example.js
+130 silly gunzTarPerm extractEntry index.js
+131 silly gunzTarPerm extractEntry README.md
+132 silly gunzTarPerm extractEntry t.js
+133 silly gunzTarPerm extractEntry bin/xml2json
+134 silly gunzTarPerm extractEntry lib/index.js
+135 silly gunzTarPerm extractEntry lib/json2xml.js
+136 silly gunzTarPerm extractEntry lib/sanitize.js
+137 silly gunzTarPerm extractEntry lib/xml2json.js
+138 silly gunzTarPerm extractEntry test/coerce-overhead.js
+139 silly gunzTarPerm extractEntry test/fixtures/alternate-text-node-A.json
+140 silly gunzTarPerm extractEntry test/fixtures/alternate-text-node-A.xml
+141 silly gunzTarPerm extractEntry test/fixtures/alternate-text-node-B.json
+142 silly gunzTarPerm extractEntry test/fixtures/alternate-text-node-C.json
+143 silly gunzTarPerm extractEntry test/fixtures/alternate-text-node-D.json
+144 silly gunzTarPerm extractEntry test/fixtures/alternate-text-node-D.xml
+145 silly gunzTarPerm extractEntry test/fixtures/array-notation.json
+146 silly gunzTarPerm extractEntry test/fixtures/array-notation.xml
+147 silly gunzTarPerm extractEntry test/fixtures/coerce.json
+148 silly gunzTarPerm extractEntry test/fixtures/coerce.xml
+149 silly gunzTarPerm extractEntry test/fixtures/domain-reversible.json
+150 silly gunzTarPerm extractEntry test/fixtures/domain.json
+151 silly gunzTarPerm extractEntry test/fixtures/domain.xml
+152 silly gunzTarPerm extractEntry test/fixtures/forceArray.json
+153 silly gunzTarPerm extractEntry test/fixtures/forceArray.xml
+154 silly gunzTarPerm extractEntry test/fixtures/large.json
+155 silly gunzTarPerm extractEntry test/fixtures/large.xml
+156 silly gunzTarPerm extractEntry test/fixtures/reorder.json
+157 silly gunzTarPerm extractEntry test/fixtures/reorder.xml
+158 silly gunzTarPerm extractEntry test/fixtures/spacetext.json
+159 silly gunzTarPerm extractEntry test/fixtures/spacetext.xml
+160 silly gunzTarPerm extractEntry test/fixtures/xmlsanitize.json
+161 silly gunzTarPerm extractEntry test/fixtures/xmlsanitize.xml
+162 silly gunzTarPerm extractEntry test/fixtures/xmlsanitize2.json
+163 silly gunzTarPerm extractEntry test/fixtures/xmlsanitize2.xml
+164 silly gunzTarPerm extractEntry test/fixtures/xmlsanitize3.json
+165 silly gunzTarPerm extractEntry test/fixtures/xmlsanitize3.xml
+166 silly gunzTarPerm extractEntry test/test-reorder.js
+167 silly gunzTarPerm extractEntry test/test-space.js
+168 silly gunzTarPerm extractEntry test/test-xmlsanitize.js
+169 silly gunzTarPerm extractEntry test/test.js
+170 verbose write writing to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/package.json
+171 info preinstall xml2json@0.11.2
+172 verbose readDependencies loading dependencies from /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/package.json
+173 silly prepareForInstallMany adding node-expat@^2.3.15 from xml2json dependencies
+174 verbose readDependencies loading dependencies from /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/package.json
+175 silly cache add args [ 'node-expat@^2.3.15', null ]
+176 verbose cache add spec node-expat@^2.3.15
+177 silly cache add parsed spec Result {
+177 silly cache add   raw: 'node-expat@^2.3.15',
+177 silly cache add   scope: null,
+177 silly cache add   name: 'node-expat',
+177 silly cache add   rawSpec: '^2.3.15',
+177 silly cache add   spec: '>=2.3.15 <3.0.0',
+177 silly cache add   type: 'range' }
+178 silly addNamed node-expat@>=2.3.15 <3.0.0
+179 verbose addNamed ">=2.3.15 <3.0.0" is a valid semver range for node-expat
+180 silly addNameRange { name: 'node-expat', range: '>=2.3.15 <3.0.0', hasData: false }
+181 silly mapToRegistry name node-expat
+182 silly mapToRegistry using default registry
+183 silly mapToRegistry registry https://registry.npmjs.org/
+184 silly mapToRegistry data Result {
+184 silly mapToRegistry   raw: 'node-expat',
+184 silly mapToRegistry   scope: null,
+184 silly mapToRegistry   name: 'node-expat',
+184 silly mapToRegistry   rawSpec: '',
+184 silly mapToRegistry   spec: 'latest',
+184 silly mapToRegistry   type: 'tag' }
+185 silly mapToRegistry uri https://registry.npmjs.org/node-expat
+186 verbose addNameRange registry:https://registry.npmjs.org/node-expat not in flight; fetching
+187 verbose request uri https://registry.npmjs.org/node-expat
+188 verbose request no auth needed
+189 info attempt registry request try #1 at 11:55:05 PM
+190 verbose etag W/"5625d39c542bbcf45408b262eeae98e0"
+191 verbose lastModified Fri, 10 Aug 2018 23:12:40 GMT
+192 http request GET https://registry.npmjs.org/node-expat
+193 http 200 https://registry.npmjs.org/node-expat
+194 verbose headers { date: 'Mon, 01 Jul 2019 18:25:07 GMT',
+194 verbose headers   'content-type': 'application/json',
+194 verbose headers   'transfer-encoding': 'chunked',
+194 verbose headers   connection: 'keep-alive',
+194 verbose headers   'set-cookie': [ '__cfduid=d19f66458a5751b6861bba3d45477bc411562005506; expires=Tue, 30-Jun-20 18:25:06 GMT; path=/; domain=.npmjs.org; HttpOnly' ],
+194 verbose headers   'cf-cache-status': 'REVALIDATED',
+194 verbose headers   'cache-control': 'max-age=300',
+194 verbose headers   'cf-ray': '4efa6bb27eefaaf2-MAA',
+194 verbose headers   etag: 'W/"f292ff17e5d12be2cf5bc37bb7369dc7"',
+194 verbose headers   'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+194 verbose headers   'last-modified': 'Thu, 30 May 2019 11:25:00 GMT',
+194 verbose headers   vary: 'accept-encoding, accept',
+194 verbose headers   'x-amz-meta-rev': '113-b16da28ee645b5e6bbde801162269d58',
+194 verbose headers   server: 'cloudflare',
+194 verbose headers   'content-encoding': 'gzip' }
+195 silly get cb [ 200,
+195 silly get   { date: 'Mon, 01 Jul 2019 18:25:07 GMT',
+195 silly get     'content-type': 'application/json',
+195 silly get     'transfer-encoding': 'chunked',
+195 silly get     connection: 'keep-alive',
+195 silly get     'set-cookie': [ '__cfduid=d19f66458a5751b6861bba3d45477bc411562005506; expires=Tue, 30-Jun-20 18:25:06 GMT; path=/; domain=.npmjs.org; HttpOnly' ],
+195 silly get     'cf-cache-status': 'REVALIDATED',
+195 silly get     'cache-control': 'max-age=300',
+195 silly get     'cf-ray': '4efa6bb27eefaaf2-MAA',
+195 silly get     etag: 'W/"f292ff17e5d12be2cf5bc37bb7369dc7"',
+195 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+195 silly get     'last-modified': 'Thu, 30 May 2019 11:25:00 GMT',
+195 silly get     vary: 'accept-encoding, accept',
+195 silly get     'x-amz-meta-rev': '113-b16da28ee645b5e6bbde801162269d58',
+195 silly get     server: 'cloudflare',
+195 silly get     'content-encoding': 'gzip' } ]
+196 verbose get saving node-expat to /Users/ravikumarguru/.npm/registry.npmjs.org/node-expat/.cache.json
+197 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+198 silly addNameRange number 2 { name: 'node-expat', range: '>=2.3.15 <3.0.0', hasData: true }
+199 silly addNameRange versions [ 'node-expat',
+199 silly addNameRange   [ '0.0.4',
+199 silly addNameRange     '0.0.5',
+199 silly addNameRange     '0.0.6',
+199 silly addNameRange     '1.0.0',
+199 silly addNameRange     '1.0.1',
+199 silly addNameRange     '1.1.0',
+199 silly addNameRange     '1.1.1',
+199 silly addNameRange     '1.2.0',
+199 silly addNameRange     '1.3.0',
+199 silly addNameRange     '1.3.1',
+199 silly addNameRange     '1.3.2',
+199 silly addNameRange     '1.4.0',
+199 silly addNameRange     '1.4.1',
+199 silly addNameRange     '1.4.2',
+199 silly addNameRange     '1.4.3',
+199 silly addNameRange     '1.4.4',
+199 silly addNameRange     '1.4.5',
+199 silly addNameRange     '1.5.0',
+199 silly addNameRange     '1.6.0',
+199 silly addNameRange     '1.6.1',
+199 silly addNameRange     '2.0.0',
+199 silly addNameRange     '2.1.0',
+199 silly addNameRange     '2.1.1',
+199 silly addNameRange     '2.1.2',
+199 silly addNameRange     '2.1.3',
+199 silly addNameRange     '2.1.4',
+199 silly addNameRange     '2.2.0',
+199 silly addNameRange     '2.3.0',
+199 silly addNameRange     '2.3.1',
+199 silly addNameRange     '2.3.2',
+199 silly addNameRange     '2.3.3',
+199 silly addNameRange     '2.3.4',
+199 silly addNameRange     '2.3.5',
+199 silly addNameRange     '2.3.6',
+199 silly addNameRange     '2.3.7',
+199 silly addNameRange     '2.3.8',
+199 silly addNameRange     '2.3.9',
+199 silly addNameRange     '2.3.10',
+199 silly addNameRange     '2.3.11',
+199 silly addNameRange     '2.3.12',
+199 silly addNameRange     '2.3.13',
+199 silly addNameRange     '2.3.14',
+199 silly addNameRange     '2.3.15',
+199 silly addNameRange     '2.3.16',
+199 silly addNameRange     '2.3.17',
+199 silly addNameRange     '2.3.18' ] ]
+200 silly addNamed node-expat@2.3.18
+201 verbose addNamed "2.3.18" is a plain semver version for node-expat
+202 silly mapToRegistry name node-expat
+203 silly mapToRegistry using default registry
+204 silly mapToRegistry registry https://registry.npmjs.org/
+205 silly mapToRegistry data Result {
+205 silly mapToRegistry   raw: 'node-expat',
+205 silly mapToRegistry   scope: null,
+205 silly mapToRegistry   name: 'node-expat',
+205 silly mapToRegistry   rawSpec: '',
+205 silly mapToRegistry   spec: 'latest',
+205 silly mapToRegistry   type: 'tag' }
+206 silly mapToRegistry uri https://registry.npmjs.org/node-expat
+207 verbose addRemoteTarball https://registry.npmjs.org/node-expat/-/node-expat-2.3.18.tgz not in flight; adding
+208 verbose addRemoteTarball [ 'https://registry.npmjs.org/node-expat/-/node-expat-2.3.18.tgz',
+208 verbose addRemoteTarball   'd9e6949cecda15e131f14259b73dc7b9ed7bc560' ]
+209 info retry fetch attempt 1 at 11:55:06 PM
+210 info attempt registry request try #1 at 11:55:06 PM
+211 http fetch GET https://registry.npmjs.org/node-expat/-/node-expat-2.3.18.tgz
+212 http fetch 200 https://registry.npmjs.org/node-expat/-/node-expat-2.3.18.tgz
+213 silly fetchAndShaCheck shasum d9e6949cecda15e131f14259b73dc7b9ed7bc560
+214 verbose addTmpTarball /var/folders/jw/46hv3swx55z9xrzcnddkkglc0000gp/T/npm-10245-8835b4c3/registry.npmjs.org/node-expat/-/node-expat-2.3.18.tgz not in flight; adding
+215 verbose addTmpTarball already have metadata; skipping unpack for node-expat@2.3.18
+216 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+217 silly cache afterAdd node-expat@2.3.18
+218 verbose afterAdd /Users/ravikumarguru/.npm/node-expat/2.3.18/package/package.json not in flight; writing
+219 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+220 verbose afterAdd /Users/ravikumarguru/.npm/node-expat/2.3.18/package/package.json written
+221 silly install resolved [ { name: 'node-expat',
+221 silly install resolved     version: '2.3.18',
+221 silly install resolved     main: './lib/node-expat',
+221 silly install resolved     description: 'NodeJS binding for fast XML parsing.',
+221 silly install resolved     keywords: [ 'xml', 'sax', 'expat', 'libexpat', 'parse', 'parsing' ],
+221 silly install resolved     scripts:
+221 silly install resolved      { preversion: 'npm test',
+221 silly install resolved        lint: 'standard',
+221 silly install resolved        unit: 'vows --spec ./test/**/*.js',
+221 silly install resolved        test: 'npm run unit && npm run lint',
+221 silly install resolved        benchmark: 'node ./benchmark.js',
+221 silly install resolved        install: 'node-gyp rebuild' },
+221 silly install resolved     dependencies: { bindings: '^1.5.0', nan: '^2.13.2' },
+221 silly install resolved     devDependencies:
+221 silly install resolved      { benchmark: '^2.1.0',
+221 silly install resolved        debug: '^2.2.0',
+221 silly install resolved        iconv: '^2.2.0',
+221 silly install resolved        ltx: '^2.3.0',
+221 silly install resolved        'node-xml': '^1.0.2',
+221 silly install resolved        sax: '^1.2.1',
+221 silly install resolved        standard: '^7.1.2',
+221 silly install resolved        vows: '^0.8.1' },
+221 silly install resolved     repository:
+221 silly install resolved      { type: 'git',
+221 silly install resolved        url: 'git+https://github.com/astro/node-expat.git' },
+221 silly install resolved     homepage: 'http://github.com/astro/node-expat',
+221 silly install resolved     bugs: { url: 'https://github.com/astro/node-expat/issues' },
+221 silly install resolved     author:
+221 silly install resolved      { name: 'Astro',
+221 silly install resolved        email: 'astro@spaceboyz.net',
+221 silly install resolved        url: 'http://spaceboyz.net/~astro/' },
+221 silly install resolved     contributors:
+221 silly install resolved      [ [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object],
+221 silly install resolved        [Object] ],
+221 silly install resolved     licenses: [ [Object] ],
+221 silly install resolved     license: 'MIT',
+221 silly install resolved     gypfile: true,
+221 silly install resolved     gitHead: '0c14bc27c8085e1b6ea7444b301a2dffa9aeeae8',
+221 silly install resolved     _id: 'node-expat@2.3.18',
+221 silly install resolved     _nodeVersion: '12.3.1',
+221 silly install resolved     _npmVersion: '6.9.0',
+221 silly install resolved     dist:
+221 silly install resolved      { integrity: 'sha512-9dIrDxXePa9HSn+hhlAg1wXkvqOjxefEbMclGxk2cEnq/Y3U7Qo5HNNqeo3fQ4bVmLhcdt3YN1TZy7WMZy4MHw==',
+221 silly install resolved        shasum: 'd9e6949cecda15e131f14259b73dc7b9ed7bc560',
+221 silly install resolved        tarball: 'https://registry.npmjs.org/node-expat/-/node-expat-2.3.18.tgz',
+221 silly install resolved        fileCount: 116,
+221 silly install resolved        unpackedSize: 3681999,
+221 silly install resolved        'npm-signature': '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJc7wFbCRA9TVsSAnZWagAA8I8QAJj0SWmfHFmtGgrjn0rM\nmj1l06WobB9YIK4PQVe0vRypgPnPLH3eZsxhIgiM+NTyQGtneX8vdJNr6Lqr\nRedwQW99/jNH4227EoW/qiivSd69nAE+X3qAY65kYf4vTCeCEVoG/z31+g1q\n7GJlEEaxX70Lpae08J8jOI4D7fYhyqk10PltdJR36yCn6edEYi1VisS7mxJP\n98PXdbhO8e53u8LSTVTTyjs92Q2+ttKqvVId1FJFzqHPUNo+otej7iKjDZhk\ncxMmIFlgBOYxMlEUpewaz2FYYR9ET2RnYrKVusk1GskewrFoOEs3sEgim6xb\n0h8/jOzOSw/z94f0cdM2Oh27/l6EK3G33/Adg1aj9dDcCpr1biQrLp3/n7yW\n5hc6yzhNC83/U9lRNX6gr6wh4NrsyGO8ihMAx9xpPeM8klCvTj8FGLdU4nWQ\nSj2k/+ULQYlCasDKaTka/TFN6I0XrjhoAHmyRQmPLPVy4Wt2nAyvDt9E6L4B\niLREYvUkb0NvY+Mt7YNdnc7jw7JdmSG8G50mZSCbZThKGy5DBpg+Ybta1ZwB\nZqC0OdvTrbiFjMp9n7LbMnYcOcMPQO1NFs2OrPzpLElzMqUwbyJDD7q0zah3\n/roig3dUIP/Q03H0lvhW2l8Y/ZrXN6ZTbonwCD/ITZh609ghP3mbmLVJGy6t\naBx8\r\n=T/4c\r\n-----END PGP SIGNATURE-----\r\n' },
+221 silly install resolved     maintainers: [ [Object], [Object], [Object], [Object], [Object] ],
+221 silly install resolved     _npmUser: { name: 'y--', email: 'y.lemaout@gmail.com' },
+221 silly install resolved     directories: {},
+221 silly install resolved     _npmOperationalInternal:
+221 silly install resolved      { host: 's3://npm-registry-packages',
+221 silly install resolved        tmp: 'tmp/node-expat_2.3.18_1559167322633_0.7422764622746285' },
+221 silly install resolved     _hasShrinkwrap: false,
+221 silly install resolved     _shasum: 'd9e6949cecda15e131f14259b73dc7b9ed7bc560',
+221 silly install resolved     _resolved: 'https://registry.npmjs.org/node-expat/-/node-expat-2.3.18.tgz',
+221 silly install resolved     _from: 'node-expat@>=2.3.15 <3.0.0' } ]
+222 info install node-expat@2.3.18 into /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json
+223 info installOne node-expat@2.3.18
+224 verbose installOne of node-expat to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json not in flight; installing
+225 verbose correctMkdir /Users/ravikumarguru/.npm/_locks correctMkdir not in flight; initializing
+226 verbose lock using /Users/ravikumarguru/.npm/_locks/node-expat-bfec6ea5dced569d.lock for /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+227 silly install write writing node-expat 2.3.18 to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+228 verbose unbuild node_modules/xml2json/node_modules/node-expat
+229 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat is being purged from base /Users/ravikumarguru/Rupeek_assignment
+230 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+231 verbose tar unpack /Users/ravikumarguru/.npm/node-expat/2.3.18/package.tgz
+232 verbose tar unpacking to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+233 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat is being purged
+234 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+235 silly gunzTarPerm modes [ '755', '644' ]
+236 silly gunzTarPerm extractEntry package.json
+237 silly gunzTarPerm extractEntry binding.gyp
+238 silly gunzTarPerm extractEntry LICENSE
+239 silly gunzTarPerm extractEntry node-expat.cc
+240 silly gunzTarPerm extractEntry README.md
+241 silly gunzTarPerm extractEntry build/binding.Makefile
+242 silly gunzTarPerm extractEntry build/deps/libexpat/expat.target.mk
+243 silly gunzTarPerm extractEntry build/deps/libexpat/libexpat.Makefile
+244 silly gunzTarPerm extractEntry build/deps/libexpat/version.target.mk
+245 silly gunzTarPerm extractEntry build/gyp-mac-tool
+246 silly gunzTarPerm extractEntry build/Makefile
+247 silly gunzTarPerm extractEntry build/node_expat.target.mk
+248 silly gunzTarPerm extractEntry build/Release/.deps/Release/libexpat.a.d
+249 silly gunzTarPerm extractEntry build/Release/.deps/Release/node_expat.node.d
+250 silly gunzTarPerm extractEntry build/Release/.deps/Release/obj.target/expat/deps/libexpat/lib/xmlparse.o.d
+251 silly gunzTarPerm extractEntry build/Release/.deps/Release/obj.target/expat/deps/libexpat/lib/xmlrole.o.d
+252 silly gunzTarPerm extractEntry build/Release/.deps/Release/obj.target/expat/deps/libexpat/lib/xmltok.o.d
+253 silly gunzTarPerm extractEntry build/Release/.deps/Release/obj.target/node_expat/node-expat.o.d
+254 silly gunzTarPerm extractEntry build/Release/libexpat.a
+255 silly gunzTarPerm extractEntry build/Release/node_expat.node
+256 silly gunzTarPerm extractEntry build/Release/obj.target/expat/deps/libexpat/lib/xmlparse.o
+257 silly gunzTarPerm extractEntry build/Release/obj.target/expat/deps/libexpat/lib/xmlrole.o
+258 silly gunzTarPerm extractEntry build/Release/obj.target/expat/deps/libexpat/lib/xmltok.o
+259 silly gunzTarPerm extractEntry build/Release/obj.target/node_expat/node-expat.o
+260 silly gunzTarPerm extractEntry deps/libexpat/aclocal.m4
+261 silly gunzTarPerm extractEntry deps/libexpat/AUTHORS
+262 silly gunzTarPerm extractEntry deps/libexpat/Changes
+263 silly gunzTarPerm extractEntry deps/libexpat/CMake.README
+264 silly gunzTarPerm extractEntry deps/libexpat/CMakeLists.txt
+265 silly gunzTarPerm extractEntry deps/libexpat/configure
+266 silly gunzTarPerm extractEntry deps/libexpat/configure.ac
+267 silly gunzTarPerm extractEntry deps/libexpat/ConfigureChecks.cmake
+268 silly gunzTarPerm extractEntry deps/libexpat/conftools/ac_c_bigendian_cross.m4
+269 silly gunzTarPerm extractEntry deps/libexpat/conftools/config.guess
+270 silly gunzTarPerm extractEntry deps/libexpat/conftools/config.sub
+271 silly gunzTarPerm extractEntry deps/libexpat/conftools/expat.m4
+272 silly gunzTarPerm extractEntry deps/libexpat/conftools/get-version.sh
+273 silly gunzTarPerm extractEntry deps/libexpat/conftools/install-sh
+274 silly gunzTarPerm extractEntry deps/libexpat/conftools/ltmain.sh
+275 silly gunzTarPerm extractEntry deps/libexpat/conftools/mkinstalldirs
+276 silly gunzTarPerm extractEntry deps/libexpat/conftools/PrintPath
+277 silly gunzTarPerm extractEntry deps/libexpat/COPYING
+278 silly gunzTarPerm extractEntry deps/libexpat/doc/expat.png
+279 silly gunzTarPerm extractEntry deps/libexpat/doc/reference.html
+280 silly gunzTarPerm extractEntry deps/libexpat/doc/style.css
+281 silly gunzTarPerm extractEntry deps/libexpat/doc/valid-xhtml10.png
+282 silly gunzTarPerm extractEntry deps/libexpat/doc/xmlwf.1
+283 silly gunzTarPerm extractEntry deps/libexpat/doc/xmlwf.xml
+284 silly gunzTarPerm extractEntry deps/libexpat/examples/elements.c
+285 silly gunzTarPerm extractEntry deps/libexpat/examples/outline.c
+286 silly gunzTarPerm extractEntry deps/libexpat/expat_config.h
+287 silly gunzTarPerm extractEntry deps/libexpat/expat_config.h.cmake
+288 silly gunzTarPerm extractEntry deps/libexpat/expat_config.h.in
+289 silly gunzTarPerm extractEntry deps/libexpat/expat.pc.in
+290 silly gunzTarPerm extractEntry deps/libexpat/lib/ascii.h
+291 silly gunzTarPerm extractEntry deps/libexpat/lib/asciitab.h
+292 silly gunzTarPerm extractEntry deps/libexpat/lib/expat_external.h
+293 silly gunzTarPerm extractEntry deps/libexpat/lib/expat.h
+294 silly gunzTarPerm extractEntry deps/libexpat/lib/iasciitab.h
+295 silly gunzTarPerm extractEntry deps/libexpat/lib/internal.h
+296 silly gunzTarPerm extractEntry deps/libexpat/lib/latin1tab.h
+297 silly gunzTarPerm extractEntry deps/libexpat/lib/libexpat.def
+298 silly gunzTarPerm extractEntry deps/libexpat/lib/libexpatw.def
+299 silly gunzTarPerm extractEntry deps/libexpat/lib/nametab.h
+300 silly gunzTarPerm extractEntry deps/libexpat/lib/siphash.h
+301 silly gunzTarPerm extractEntry deps/libexpat/lib/utf8tab.h
+302 silly gunzTarPerm extractEntry deps/libexpat/lib/winconfig.h
+303 silly gunzTarPerm extractEntry deps/libexpat/lib/xmlparse.c
+304 silly gunzTarPerm extractEntry deps/libexpat/lib/xmlrole.c
+305 silly gunzTarPerm extractEntry deps/libexpat/lib/xmlrole.h
+306 silly gunzTarPerm extractEntry deps/libexpat/lib/xmltok_impl.c
+307 silly gunzTarPerm extractEntry deps/libexpat/lib/xmltok_impl.h
+308 silly gunzTarPerm extractEntry deps/libexpat/lib/xmltok_ns.c
+309 silly gunzTarPerm extractEntry deps/libexpat/lib/xmltok.c
+310 silly gunzTarPerm extractEntry deps/libexpat/lib/xmltok.h
+311 silly gunzTarPerm extractEntry deps/libexpat/libexpat.gyp
+312 silly gunzTarPerm extractEntry deps/libexpat/m4/libtool.m4
+313 silly gunzTarPerm extractEntry deps/libexpat/m4/lt~obsolete.m4
+314 silly gunzTarPerm extractEntry deps/libexpat/m4/ltoptions.m4
+315 silly gunzTarPerm extractEntry deps/libexpat/m4/ltsugar.m4
+316 silly gunzTarPerm extractEntry deps/libexpat/m4/ltversion.m4
+317 silly gunzTarPerm extractEntry deps/libexpat/Makefile.in
+318 silly gunzTarPerm extractEntry deps/libexpat/MANIFEST
+319 silly gunzTarPerm extractEntry deps/libexpat/README
+320 silly gunzTarPerm extractEntry deps/libexpat/run.sh.in
+321 silly gunzTarPerm extractEntry deps/libexpat/tests/benchmark/benchmark.c
+322 silly gunzTarPerm extractEntry deps/libexpat/tests/benchmark/README.txt
+323 silly gunzTarPerm extractEntry deps/libexpat/tests/chardata.c
+324 silly gunzTarPerm extractEntry deps/libexpat/tests/chardata.h
+325 silly gunzTarPerm extractEntry deps/libexpat/tests/memcheck.c
+326 silly gunzTarPerm extractEntry deps/libexpat/tests/memcheck.h
+327 silly gunzTarPerm extractEntry deps/libexpat/tests/minicheck.c
+328 silly gunzTarPerm extractEntry deps/libexpat/tests/minicheck.h
+329 silly gunzTarPerm extractEntry deps/libexpat/tests/README.txt
+330 silly gunzTarPerm extractEntry deps/libexpat/tests/runtests.c
+331 silly gunzTarPerm extractEntry deps/libexpat/tests/runtestspp.cpp
+332 silly gunzTarPerm extractEntry deps/libexpat/tests/xmltest.sh
+333 silly gunzTarPerm extractEntry deps/libexpat/win32/expat.iss
+334 silly gunzTarPerm extractEntry deps/libexpat/win32/MANIFEST.txt
+335 silly gunzTarPerm extractEntry deps/libexpat/win32/README.txt
+336 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/codepage.c
+337 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/codepage.h
+338 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/ct.c
+339 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/filemap.h
+340 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/readfilemap.c
+341 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/unixfilemap.c
+342 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/win32filemap.c
+343 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/xmlfile.c
+344 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/xmlfile.h
+345 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/xmlmime.c
+346 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/xmlmime.h
+347 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/xmltchar.h
+348 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/xmlurl.h
+349 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/xmlwf.c
+350 silly gunzTarPerm extractEntry deps/libexpat/xmlwf/xmlwin32url.cxx
+351 silly gunzTarPerm extractEntry lib/node-expat.js
+352 verbose write writing to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/package.json
+353 info preinstall node-expat@2.3.18
+354 verbose readDependencies loading dependencies from /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/package.json
+355 silly prepareForInstallMany adding bindings@^1.5.0 from node-expat dependencies
+356 silly prepareForInstallMany adding nan@^2.13.2 from node-expat dependencies
+357 verbose readDependencies loading dependencies from /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/package.json
+358 silly cache add args [ 'bindings@^1.5.0', null ]
+359 verbose cache add spec bindings@^1.5.0
+360 silly cache add args [ 'nan@^2.13.2', null ]
+361 verbose cache add spec nan@^2.13.2
+362 silly cache add parsed spec Result {
+362 silly cache add   raw: 'bindings@^1.5.0',
+362 silly cache add   scope: null,
+362 silly cache add   name: 'bindings',
+362 silly cache add   rawSpec: '^1.5.0',
+362 silly cache add   spec: '>=1.5.0 <2.0.0',
+362 silly cache add   type: 'range' }
+363 silly addNamed bindings@>=1.5.0 <2.0.0
+364 verbose addNamed ">=1.5.0 <2.0.0" is a valid semver range for bindings
+365 silly addNameRange { name: 'bindings', range: '>=1.5.0 <2.0.0', hasData: false }
+366 silly mapToRegistry name bindings
+367 silly mapToRegistry using default registry
+368 silly mapToRegistry registry https://registry.npmjs.org/
+369 silly mapToRegistry data Result {
+369 silly mapToRegistry   raw: 'bindings',
+369 silly mapToRegistry   scope: null,
+369 silly mapToRegistry   name: 'bindings',
+369 silly mapToRegistry   rawSpec: '',
+369 silly mapToRegistry   spec: 'latest',
+369 silly mapToRegistry   type: 'tag' }
+370 silly mapToRegistry uri https://registry.npmjs.org/bindings
+371 verbose addNameRange registry:https://registry.npmjs.org/bindings not in flight; fetching
+372 silly cache add parsed spec Result {
+372 silly cache add   raw: 'nan@^2.13.2',
+372 silly cache add   scope: null,
+372 silly cache add   name: 'nan',
+372 silly cache add   rawSpec: '^2.13.2',
+372 silly cache add   spec: '>=2.13.2 <3.0.0',
+372 silly cache add   type: 'range' }
+373 silly addNamed nan@>=2.13.2 <3.0.0
+374 verbose addNamed ">=2.13.2 <3.0.0" is a valid semver range for nan
+375 silly addNameRange { name: 'nan', range: '>=2.13.2 <3.0.0', hasData: false }
+376 silly mapToRegistry name nan
+377 silly mapToRegistry using default registry
+378 silly mapToRegistry registry https://registry.npmjs.org/
+379 silly mapToRegistry data Result {
+379 silly mapToRegistry   raw: 'nan',
+379 silly mapToRegistry   scope: null,
+379 silly mapToRegistry   name: 'nan',
+379 silly mapToRegistry   rawSpec: '',
+379 silly mapToRegistry   spec: 'latest',
+379 silly mapToRegistry   type: 'tag' }
+380 silly mapToRegistry uri https://registry.npmjs.org/nan
+381 verbose addNameRange registry:https://registry.npmjs.org/nan not in flight; fetching
+382 verbose request uri https://registry.npmjs.org/bindings
+383 verbose request no auth needed
+384 info attempt registry request try #1 at 11:55:07 PM
+385 verbose etag W/"8dfe34716157e36596b3ba5e5fcfb617"
+386 verbose lastModified Wed, 27 Feb 2019 22:54:48 GMT
+387 http request GET https://registry.npmjs.org/bindings
+388 verbose request uri https://registry.npmjs.org/nan
+389 verbose request no auth needed
+390 info attempt registry request try #1 at 11:55:07 PM
+391 verbose etag W/"d9774cf846d746fcaab396a90dcaef66"
+392 verbose lastModified Sun, 24 Mar 2019 14:32:23 GMT
+393 http request GET https://registry.npmjs.org/nan
+394 http 304 https://registry.npmjs.org/bindings
+395 verbose headers { date: 'Mon, 01 Jul 2019 18:25:08 GMT',
+395 verbose headers   connection: 'keep-alive',
+395 verbose headers   'set-cookie': [ '__cfduid=d9acf3a19d6ead9c6818403ed3e60d70a1562005508; expires=Tue, 30-Jun-20 18:25:08 GMT; path=/; domain=.npmjs.org; HttpOnly' ],
+395 verbose headers   'cf-cache-status': 'HIT',
+395 verbose headers   'cache-control': 'max-age=300',
+395 verbose headers   'cf-ray': '4efa6bbdac16aaf2-MAA',
+395 verbose headers   age: '5338',
+395 verbose headers   etag: '"8dfe34716157e36596b3ba5e5fcfb617"',
+395 verbose headers   'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+395 verbose headers   'last-modified': 'Wed, 27 Feb 2019 22:54:48 GMT',
+395 verbose headers   vary: 'accept-encoding, accept',
+395 verbose headers   'x-amz-meta-rev': '66-b1ca5aefc319d9a2058a07561bf4cc31',
+395 verbose headers   server: 'cloudflare' }
+396 silly get cb [ 304,
+396 silly get   { date: 'Mon, 01 Jul 2019 18:25:08 GMT',
+396 silly get     connection: 'keep-alive',
+396 silly get     'set-cookie': [ '__cfduid=d9acf3a19d6ead9c6818403ed3e60d70a1562005508; expires=Tue, 30-Jun-20 18:25:08 GMT; path=/; domain=.npmjs.org; HttpOnly' ],
+396 silly get     'cf-cache-status': 'HIT',
+396 silly get     'cache-control': 'max-age=300',
+396 silly get     'cf-ray': '4efa6bbdac16aaf2-MAA',
+396 silly get     age: '5338',
+396 silly get     etag: '"8dfe34716157e36596b3ba5e5fcfb617"',
+396 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+396 silly get     'last-modified': 'Wed, 27 Feb 2019 22:54:48 GMT',
+396 silly get     vary: 'accept-encoding, accept',
+396 silly get     'x-amz-meta-rev': '66-b1ca5aefc319d9a2058a07561bf4cc31',
+396 silly get     server: 'cloudflare' } ]
+397 verbose etag https://registry.npmjs.org/bindings from cache
+398 verbose get saving bindings to /Users/ravikumarguru/.npm/registry.npmjs.org/bindings/.cache.json
+399 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+400 silly addNameRange number 2 { name: 'bindings', range: '>=1.5.0 <2.0.0', hasData: true }
+401 silly addNameRange versions [ 'bindings',
+401 silly addNameRange   [ '0.0.1',
+401 silly addNameRange     '0.1.0',
+401 silly addNameRange     '0.1.1',
+401 silly addNameRange     '0.2.0',
+401 silly addNameRange     '0.2.1',
+401 silly addNameRange     '0.2.2',
+401 silly addNameRange     '0.2.3',
+401 silly addNameRange     '0.2.4',
+401 silly addNameRange     '0.3.0',
+401 silly addNameRange     '0.4.0',
+401 silly addNameRange     '1.0.0',
+401 silly addNameRange     '1.1.0',
+401 silly addNameRange     '1.1.1',
+401 silly addNameRange     '1.2.0',
+401 silly addNameRange     '1.2.1',
+401 silly addNameRange     '1.3.0',
+401 silly addNameRange     '1.3.1',
+401 silly addNameRange     '1.4.0',
+401 silly addNameRange     '1.5.0' ] ]
+402 silly addNamed bindings@1.5.0
+403 verbose addNamed "1.5.0" is a plain semver version for bindings
+404 silly cache afterAdd bindings@1.5.0
+405 verbose afterAdd /Users/ravikumarguru/.npm/bindings/1.5.0/package/package.json not in flight; writing
+406 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+407 verbose afterAdd /Users/ravikumarguru/.npm/bindings/1.5.0/package/package.json written
+408 http 200 https://registry.npmjs.org/nan
+409 verbose headers { date: 'Mon, 01 Jul 2019 18:25:08 GMT',
+409 verbose headers   'content-type': 'application/json',
+409 verbose headers   'transfer-encoding': 'chunked',
+409 verbose headers   connection: 'keep-alive',
+409 verbose headers   'set-cookie': [ '__cfduid=dc709865e9e35179388863ee5ef351e531562005508; expires=Tue, 30-Jun-20 18:25:08 GMT; path=/; domain=.npmjs.org; HttpOnly' ],
+409 verbose headers   'cf-cache-status': 'HIT',
+409 verbose headers   'cache-control': 'max-age=300',
+409 verbose headers   'cf-ray': '4efa6bbe6f98aada-MAA',
+409 verbose headers   age: '6150',
+409 verbose headers   etag: 'W/"a665a85bde8d605dbf85b9013ecf702b"',
+409 verbose headers   'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+409 verbose headers   'last-modified': 'Thu, 16 May 2019 19:11:40 GMT',
+409 verbose headers   vary: 'accept-encoding, accept',
+409 verbose headers   'x-amz-meta-rev': '187-4027ea0c01577aa817d1396fc47fd498',
+409 verbose headers   server: 'cloudflare',
+409 verbose headers   'content-encoding': 'gzip' }
+410 silly get cb [ 200,
+410 silly get   { date: 'Mon, 01 Jul 2019 18:25:08 GMT',
+410 silly get     'content-type': 'application/json',
+410 silly get     'transfer-encoding': 'chunked',
+410 silly get     connection: 'keep-alive',
+410 silly get     'set-cookie': [ '__cfduid=dc709865e9e35179388863ee5ef351e531562005508; expires=Tue, 30-Jun-20 18:25:08 GMT; path=/; domain=.npmjs.org; HttpOnly' ],
+410 silly get     'cf-cache-status': 'HIT',
+410 silly get     'cache-control': 'max-age=300',
+410 silly get     'cf-ray': '4efa6bbe6f98aada-MAA',
+410 silly get     age: '6150',
+410 silly get     etag: 'W/"a665a85bde8d605dbf85b9013ecf702b"',
+410 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+410 silly get     'last-modified': 'Thu, 16 May 2019 19:11:40 GMT',
+410 silly get     vary: 'accept-encoding, accept',
+410 silly get     'x-amz-meta-rev': '187-4027ea0c01577aa817d1396fc47fd498',
+410 silly get     server: 'cloudflare',
+410 silly get     'content-encoding': 'gzip' } ]
+411 verbose get saving nan to /Users/ravikumarguru/.npm/registry.npmjs.org/nan/.cache.json
+412 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+413 silly addNameRange number 2 { name: 'nan', range: '>=2.13.2 <3.0.0', hasData: true }
+414 silly addNameRange versions [ 'nan',
+414 silly addNameRange   [ '0.3.0-wip',
+414 silly addNameRange     '0.3.0-wip2',
+414 silly addNameRange     '0.3.0',
+414 silly addNameRange     '0.3.1',
+414 silly addNameRange     '0.3.2',
+414 silly addNameRange     '0.4.0',
+414 silly addNameRange     '0.4.1',
+414 silly addNameRange     '0.4.2',
+414 silly addNameRange     '0.4.3',
+414 silly addNameRange     '0.4.4',
+414 silly addNameRange     '0.5.0',
+414 silly addNameRange     '0.5.1',
+414 silly addNameRange     '0.5.2',
+414 silly addNameRange     '0.6.0',
+414 silly addNameRange     '0.7.0',
+414 silly addNameRange     '0.7.1',
+414 silly addNameRange     '0.8.0',
+414 silly addNameRange     '1.0.0',
+414 silly addNameRange     '1.1.0',
+414 silly addNameRange     '1.1.1',
+414 silly addNameRange     '1.1.2',
+414 silly addNameRange     '1.2.0',
+414 silly addNameRange     '1.3.0',
+414 silly addNameRange     '1.4.0',
+414 silly addNameRange     '1.4.1',
+414 silly addNameRange     '1.5.0',
+414 silly addNameRange     '1.4.2',
+414 silly addNameRange     '1.4.3',
+414 silly addNameRange     '1.5.1',
+414 silly addNameRange     '1.5.2',
+414 silly addNameRange     '1.6.0',
+414 silly addNameRange     '1.5.3',
+414 silly addNameRange     '1.6.1',
+414 silly addNameRange     '1.6.2',
+414 silly addNameRange     '1.7.0',
+414 silly addNameRange     '1.8.0',
+414 silly addNameRange     '1.8.1',
+414 silly addNameRange     '1.8.2',
+414 silly addNameRange     '1.8.3',
+414 silly addNameRange     '1.8.4',
+414 silly addNameRange     '1.9.0',
+414 silly addNameRange     '2.0.0',
+414 silly addNameRange     '2.0.1',
+414 silly addNameRange     '2.0.2',
+414 silly addNameRange     '2.0.3',
+414 silly addNameRange     '2.0.4',
+414 silly addNameRange     '2.0.5',
+414 silly addNameRange     '2.0.6',
+414 silly addNameRange     '2.0.7',
+414 silly addNameRange     '2.0.8',
+414 silly addNameRange     '2.0.9',
+414 silly addNameRange     '2.1.0',
+414 silly addNameRange     '2.2.0',
+414 silly addNameRange     '2.2.1',
+414 silly addNameRange     '2.3.0',
+414 silly addNameRange     '2.3.1',
+414 silly addNameRange     '2.3.2',
+414 silly addNameRange     '2.3.3',
+414 silly addNameRange     '2.3.4',
+414 silly addNameRange     '2.3.5',
+414 silly addNameRange     '2.4.0',
+414 silly addNameRange     '2.5.0',
+414 silly addNameRange     '2.5.1',
+414 silly addNameRange     '2.6.0',
+414 silly addNameRange     '2.6.1',
+414 silly addNameRange     '2.6.2',
+414 silly addNameRange     '2.7.0',
+414 silly addNameRange     '2.8.0',
+414 silly addNameRange     '2.9.1',
+414 silly addNameRange     '2.9.2',
+414 silly addNameRange     '2.10.0',
+414 silly addNameRange     '2.11.0',
+414 silly addNameRange     '2.11.1',
+414 silly addNameRange     '2.12.0',
+414 silly addNameRange     '2.12.1',
+414 silly addNameRange     '2.13.0',
+414 silly addNameRange     '2.13.1',
+414 silly addNameRange     '2.13.2',
+414 silly addNameRange     '2.14.0' ] ]
+415 silly addNamed nan@2.14.0
+416 verbose addNamed "2.14.0" is a plain semver version for nan
+417 silly mapToRegistry name nan
+418 silly mapToRegistry using default registry
+419 silly mapToRegistry registry https://registry.npmjs.org/
+420 silly mapToRegistry data Result {
+420 silly mapToRegistry   raw: 'nan',
+420 silly mapToRegistry   scope: null,
+420 silly mapToRegistry   name: 'nan',
+420 silly mapToRegistry   rawSpec: '',
+420 silly mapToRegistry   spec: 'latest',
+420 silly mapToRegistry   type: 'tag' }
+421 silly mapToRegistry uri https://registry.npmjs.org/nan
+422 verbose addRemoteTarball https://registry.npmjs.org/nan/-/nan-2.14.0.tgz not in flight; adding
+423 verbose addRemoteTarball [ 'https://registry.npmjs.org/nan/-/nan-2.14.0.tgz',
+423 verbose addRemoteTarball   '7818f722027b2459a86f0295d434d1fc2336c52c' ]
+424 info retry fetch attempt 1 at 11:55:07 PM
+425 info attempt registry request try #1 at 11:55:07 PM
+426 http fetch GET https://registry.npmjs.org/nan/-/nan-2.14.0.tgz
+427 http fetch 200 https://registry.npmjs.org/nan/-/nan-2.14.0.tgz
+428 silly fetchAndShaCheck shasum 7818f722027b2459a86f0295d434d1fc2336c52c
+429 verbose addTmpTarball /var/folders/jw/46hv3swx55z9xrzcnddkkglc0000gp/T/npm-10245-8835b4c3/registry.npmjs.org/nan/-/nan-2.14.0.tgz not in flight; adding
+430 verbose addTmpTarball already have metadata; skipping unpack for nan@2.14.0
+431 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+432 silly cache afterAdd nan@2.14.0
+433 verbose afterAdd /Users/ravikumarguru/.npm/nan/2.14.0/package/package.json not in flight; writing
+434 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+435 verbose afterAdd /Users/ravikumarguru/.npm/nan/2.14.0/package/package.json written
+436 silly install resolved [ { name: 'bindings',
+436 silly install resolved     description: 'Helper module for loading your native module\'s .node file',
+436 silly install resolved     keywords: [ 'native', 'addon', 'bindings', 'gyp', 'waf', 'c', 'c++' ],
+436 silly install resolved     version: '1.5.0',
+436 silly install resolved     author:
+436 silly install resolved      { name: 'Nathan Rajlich',
+436 silly install resolved        email: 'nathan@tootallnate.net',
+436 silly install resolved        url: 'http://tootallnate.net' },
+436 silly install resolved     repository:
+436 silly install resolved      { type: 'git',
+436 silly install resolved        url: 'git://github.com/TooTallNate/node-bindings.git' },
+436 silly install resolved     main: './bindings.js',
+436 silly install resolved     bugs: { url: 'https://github.com/TooTallNate/node-bindings/issues' },
+436 silly install resolved     homepage: 'https://github.com/TooTallNate/node-bindings',
+436 silly install resolved     license: 'MIT',
+436 silly install resolved     dependencies: { 'file-uri-to-path': '1.0.0' },
+436 silly install resolved     gitHead: 'bcdc7cadf839ef84c9bd9e21c697f2a727b2b1d3',
+436 silly install resolved     _id: 'bindings@1.5.0',
+436 silly install resolved     _npmVersion: '6.4.1',
+436 silly install resolved     _nodeVersion: '10.13.0',
+436 silly install resolved     _npmUser: { name: 'tootallnate', email: 'nathan@tootallnate.net' },
+436 silly install resolved     dist:
+436 silly install resolved      { integrity: 'sha512-p2q/t/mhvuOj/UeLlV6566GD/guowlr0hHxClI0W9m7MWYkL1F0hLo+0Aexs9HSPCtR1SXQ0TD3MMKrXZajbiQ==',
+436 silly install resolved        shasum: '10353c9e945334bc0511a6d90b38fbc7c9c504df',
+436 silly install resolved        tarball: 'https://registry.npmjs.org/bindings/-/bindings-1.5.0.tgz',
+436 silly install resolved        fileCount: 4,
+436 silly install resolved        unpackedSize: 11230,
+436 silly install resolved        'npm-signature': '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcdxU0CRA9TVsSAnZWagAA8woP/iZQzUdSp2KE6NlY8BIs\nX6bpJ0taAvKOPpmyf173+PRd3csu4POuROZYQRS0SH62XApfwJEm/4N9GwnM\nJlky/urUw9py0w/U5hVejperQcgyovc5f1Wjr6VB8Rj+uuH/hnnEqa5ExQZv\n6BDsFgPf4B1TIBladuqra6EDkLCLD5jX8rlhDVCnQwwJcgrpYRz8W6jmO3p6\nvypvViUQyC/9R1lpecxaQk5aKZQnS6+CMXeYCUI0DzksqC0ZtuRQVL0akJ47\nFF+naaaOcJO0SnqJ/KVbfQcp//KzAaj0prq324UvZCtOteZgyfLUclzQ6DeW\noS7fnWHD83gDaqVQzm4TH7I4OnTizh+A4jpcaMEGFEeROXwC/SlR/S/sUBj4\n25Gfrp9PDAZL/j5w0RNi9zZZSQfPgcVMv9kTnSzOcp80drLAZYuotRqvtRNq\nxwUSmB8maQLjW/m2ZREvMb31vmDanpqy/Ve3VkepwM/uPjduwsChb9QT3veq\nlNraiUCX4lLBHcy00xTHq0R14EI2klC954Ao97+LLlwfb2Vb9D/V3OmlauRu\nDZGQAVR5Z0OteKGeNQUFuM+f819THz0Uixba9XbbAmJq8u8SLK/3TzwOt4Hz\nWpxLogiRd021itDxKElr33Mtb4FbR7dnbQxkfu36y6WRIRF3oJH1JUMhHRYc\npGp7\r\n=e5yW\r\n-----END PGP SIGNATURE-----\r\n' },
+436 silly install resolved     maintainers: [ [Object] ],
+436 silly install resolved     directories: {},
+436 silly install resolved     _npmOperationalInternal:
+436 silly install resolved      { host: 's3://npm-registry-packages',
+436 silly install resolved        tmp: 'tmp/bindings_1.5.0_1551308084120_0.9910986257879217' },
+436 silly install resolved     _hasShrinkwrap: false,
+436 silly install resolved     _shasum: '10353c9e945334bc0511a6d90b38fbc7c9c504df',
+436 silly install resolved     _resolved: 'https://registry.npmjs.org/bindings/-/bindings-1.5.0.tgz',
+436 silly install resolved     _from: 'bindings@>=1.5.0 <2.0.0',
+436 silly install resolved     readme: 'ERROR: No README data found!' },
+436 silly install resolved   { name: 'nan',
+436 silly install resolved     version: '2.14.0',
+436 silly install resolved     description: 'Native Abstractions for Node.js: C++ header for Node 0.8 -> 11 compatibility',
+436 silly install resolved     main: 'include_dirs.js',
+436 silly install resolved     repository: { type: 'git', url: 'git://github.com/nodejs/nan.git' },
+436 silly install resolved     scripts:
+436 silly install resolved      { test: 'tap --gc --stderr test/js/*-test.js',
+436 silly install resolved        'test:worker': 'node --experimental-worker test/tap-as-worker.js --gc --stderr test/js/*-test.js',
+436 silly install resolved        'rebuild-tests': 'node-gyp rebuild --msvs_version=2015 --directory test',
+436 silly install resolved        docs: 'doc/.build.sh' },
+436 silly install resolved     contributors:
+436 silly install resolved      [ [Object],
+436 silly install resolved        [Object],
+436 silly install resolved        [Object],
+436 silly install resolved        [Object],
+436 silly install resolved        [Object],
+436 silly install resolved        [Object],
+436 silly install resolved        [Object],
+436 silly install resolved        [Object] ],
+436 silly install resolved     devDependencies:
+436 silly install resolved      { bindings: '~1.2.1',
+436 silly install resolved        commander: '^2.8.1',
+436 silly install resolved        glob: '^5.0.14',
+436 silly install resolved        request: '=2.81.0',
+436 silly install resolved        'node-gyp': '~3.6.2',
+436 silly install resolved        'readable-stream': '^2.1.4',
+436 silly install resolved        tap: '~0.7.1',
+436 silly install resolved        xtend: '~4.0.0' },
+436 silly install resolved     license: 'MIT',
+436 silly install resolved     gitHead: '1dcc61bd06d84e389bfd5311b2b1492a14c74201',
+436 silly install resolved     bugs: { url: 'https://github.com/nodejs/nan/issues' },
+436 silly install resolved     homepage: 'https://github.com/nodejs/nan#readme',
+436 silly install resolved     _id: 'nan@2.14.0',
+436 silly install resolved     _npmVersion: '5.6.0',
+436 silly install resolved     _nodeVersion: '9.6.0',
+436 silly install resolved     _npmUser: { name: 'kkoopa', email: 'bbyholm@abo.fi' },
+436 silly install resolved     dist:
+436 silly install resolved      { integrity: 'sha512-INOFj37C7k3AfaNTtX8RhsTw7qRy7eLET14cROi9+5HAVbbHuIWUHEauBv5qT4Av2tWasiTY1Jw6puUNqRJXQg==',
+436 silly install resolved        shasum: '7818f722027b2459a86f0295d434d1fc2336c52c',
+436 silly install resolved        tarball: 'https://registry.npmjs.org/nan/-/nan-2.14.0.tgz',
+436 silly install resolved        fileCount: 46,
+436 silly install resolved        unpackedSize: 417060,
+436 silly install resolved        'npm-signature': '-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJc3bXpCRA9TVsSAnZWagAApycP/2mhtcraLrh5RRziC2xM\nUKDaEjBIznHn7PqDWecW3HW/CGrUfmuxpDCBlE2fBm2cxF26nB/CV6xoD2W1\nkyu4MkRcKiAvNW0h4a5sTwXey0U6xc8JRBhBTWgfiY2aQoA4fIO5akmbIa/w\nyT6tspFQ0BQWKBrxlSOqfQ/lARU4Dzy2eiKu1aWMffQecgqOPTrlb5/QxFsr\nUmfdePyO2odVrjDiiNJsfkHeMh66ED4n7szrRjwkz7FTkoEF0dMOw/bWJU2X\nEYVziHG7rm9B4Blzv6KtqG4Y9Gty8epOG+itSLQcc088H86TXYXJn6y75+lf\n1Lw5E9lxw5XLfVnE7uzr0NVHhcj/M3RaGzXySi7v2AWMbF6wqxtAdebdNaew\nIpc3+NVj2OjA/79bzzhU76MG0PrYURE8UmVugHZHGp9L1PraD/jWqCT1JMGE\n1qGu2dSlsqoyNe9Y1pTs/kc+I4KLjwDqo14NyQQk8quvkyHrQ66oO5lAPN4U\n5ms7vR+FOZYrtX7jQDTAs9N169N0IxhGwgsUH4zRza2RkkdTzsjyEnPhqlrI\n6tIrfYldrudrGtcNmLJqY7fTUA86L3f7SQvlnpfsDPUFagfwQr4Uz9JE8q1k\nhbe8CqTuhbET2AZNFlBxf0ii3ipwNXXJtB/0hIVQCfud1vbdS1IuOibc2/YY\n6ep0\r\n=AZxH\r\n-----END PGP SIGNATURE-----\r\n' },
+436 silly install resolved     maintainers: [ [Object], [Object] ],
+436 silly install resolved     directories: {},
+436 silly install resolved     _npmOperationalInternal:
+436 silly install resolved      { host: 's3://npm-registry-packages',
+436 silly install resolved        tmp: 'tmp/nan_2.14.0_1558033896058_0.6879275796293267' },
+436 silly install resolved     _hasShrinkwrap: false,
+436 silly install resolved     _shasum: '7818f722027b2459a86f0295d434d1fc2336c52c',
+436 silly install resolved     _resolved: 'https://registry.npmjs.org/nan/-/nan-2.14.0.tgz',
+436 silly install resolved     _from: 'nan@>=2.13.2 <3.0.0' } ]
+437 info install bindings@1.5.0 into /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+438 info install nan@2.14.0 into /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+439 info installOne bindings@1.5.0
+440 verbose installOne of bindings to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat not in flight; installing
+441 verbose correctMkdir /Users/ravikumarguru/.npm/_locks correctMkdir not in flight; initializing
+442 info installOne nan@2.14.0
+443 verbose installOne of nan to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat not in flight; installing
+444 verbose correctMkdir /Users/ravikumarguru/.npm/_locks correctMkdir not in flight; initializing
+445 verbose lock using /Users/ravikumarguru/.npm/_locks/bindings-6917813e50b7429c.lock for /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings
+446 verbose lock using /Users/ravikumarguru/.npm/_locks/nan-705f3c2b2a0d9b8c.lock for /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan
+447 silly install write writing bindings 1.5.0 to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings
+448 silly install write writing nan 2.14.0 to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan
+449 verbose unbuild node_modules/xml2json/node_modules/node-expat/node_modules/bindings
+450 verbose unbuild node_modules/xml2json/node_modules/node-expat/node_modules/nan
+451 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings is being purged from base /Users/ravikumarguru/Rupeek_assignment
+452 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings
+453 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan is being purged from base /Users/ravikumarguru/Rupeek_assignment
+454 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan
+455 verbose tar unpack /Users/ravikumarguru/.npm/bindings/1.5.0/package.tgz
+456 verbose tar unpacking to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings
+457 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings is being purged
+458 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings
+459 verbose tar unpack /Users/ravikumarguru/.npm/nan/2.14.0/package.tgz
+460 verbose tar unpacking to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan
+461 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan is being purged
+462 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan
+463 silly gunzTarPerm modes [ '755', '644' ]
+464 silly gunzTarPerm modes [ '755', '644' ]
+465 silly gunzTarPerm extractEntry package.json
+466 silly gunzTarPerm modified mode [ 'package.json', 436, 420 ]
+467 silly gunzTarPerm extractEntry package.json
+468 silly gunzTarPerm extractEntry CHANGELOG.md
+469 silly gunzTarPerm modified mode [ 'CHANGELOG.md', 436, 420 ]
+470 silly gunzTarPerm extractEntry include_dirs.js
+471 silly gunzTarPerm modified mode [ 'include_dirs.js', 436, 420 ]
+472 silly gunzTarPerm extractEntry bindings.js
+473 silly gunzTarPerm extractEntry LICENSE.md
+474 silly gunzTarPerm extractEntry LICENSE.md
+475 silly gunzTarPerm modified mode [ 'LICENSE.md', 436, 420 ]
+476 silly gunzTarPerm extractEntry nan_callbacks_12_inl.h
+477 silly gunzTarPerm modified mode [ 'nan_callbacks_12_inl.h', 436, 420 ]
+478 silly gunzTarPerm extractEntry nan_callbacks_pre_12_inl.h
+479 silly gunzTarPerm modified mode [ 'nan_callbacks_pre_12_inl.h', 436, 420 ]
+480 silly gunzTarPerm extractEntry README.md
+481 silly gunzTarPerm extractEntry nan_callbacks.h
+482 silly gunzTarPerm modified mode [ 'nan_callbacks.h', 436, 420 ]
+483 silly gunzTarPerm extractEntry nan_converters_43_inl.h
+484 silly gunzTarPerm modified mode [ 'nan_converters_43_inl.h', 436, 420 ]
+485 silly gunzTarPerm extractEntry nan_converters_pre_43_inl.h
+486 silly gunzTarPerm modified mode [ 'nan_converters_pre_43_inl.h', 436, 420 ]
+487 silly gunzTarPerm extractEntry nan_converters.h
+488 silly gunzTarPerm modified mode [ 'nan_converters.h', 436, 420 ]
+489 silly gunzTarPerm extractEntry nan_define_own_property_helper.h
+490 silly gunzTarPerm modified mode [ 'nan_define_own_property_helper.h', 436, 420 ]
+491 silly gunzTarPerm extractEntry nan_implementation_12_inl.h
+492 silly gunzTarPerm modified mode [ 'nan_implementation_12_inl.h', 436, 420 ]
+493 silly gunzTarPerm extractEntry nan_implementation_pre_12_inl.h
+494 silly gunzTarPerm modified mode [ 'nan_implementation_pre_12_inl.h', 436, 420 ]
+495 silly gunzTarPerm extractEntry nan_json.h
+496 silly gunzTarPerm modified mode [ 'nan_json.h', 436, 420 ]
+497 silly gunzTarPerm extractEntry nan_maybe_43_inl.h
+498 silly gunzTarPerm modified mode [ 'nan_maybe_43_inl.h', 436, 420 ]
+499 verbose write writing to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/package.json
+500 silly gunzTarPerm extractEntry nan_maybe_pre_43_inl.h
+501 silly gunzTarPerm modified mode [ 'nan_maybe_pre_43_inl.h', 436, 420 ]
+502 silly gunzTarPerm extractEntry nan_new.h
+503 silly gunzTarPerm modified mode [ 'nan_new.h', 436, 420 ]
+504 silly gunzTarPerm extractEntry nan_object_wrap.h
+505 silly gunzTarPerm modified mode [ 'nan_object_wrap.h', 436, 420 ]
+506 info preinstall bindings@1.5.0
+507 silly gunzTarPerm extractEntry nan_persistent_12_inl.h
+508 silly gunzTarPerm modified mode [ 'nan_persistent_12_inl.h', 436, 420 ]
+509 silly gunzTarPerm extractEntry nan_persistent_pre_12_inl.h
+510 silly gunzTarPerm modified mode [ 'nan_persistent_pre_12_inl.h', 436, 420 ]
+511 verbose readDependencies loading dependencies from /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/package.json
+512 silly prepareForInstallMany adding file-uri-to-path@1.0.0 from bindings dependencies
+513 verbose readDependencies loading dependencies from /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/package.json
+514 silly gunzTarPerm extractEntry nan_private.h
+515 silly gunzTarPerm modified mode [ 'nan_private.h', 436, 420 ]
+516 silly gunzTarPerm extractEntry nan_string_bytes.h
+517 silly gunzTarPerm modified mode [ 'nan_string_bytes.h', 436, 420 ]
+518 silly cache add args [ 'file-uri-to-path@1.0.0', null ]
+519 verbose cache add spec file-uri-to-path@1.0.0
+520 silly cache add parsed spec Result {
+520 silly cache add   raw: 'file-uri-to-path@1.0.0',
+520 silly cache add   scope: null,
+520 silly cache add   name: 'file-uri-to-path',
+520 silly cache add   rawSpec: '1.0.0',
+520 silly cache add   spec: '1.0.0',
+520 silly cache add   type: 'version' }
+521 silly addNamed file-uri-to-path@1.0.0
+522 verbose addNamed "1.0.0" is a plain semver version for file-uri-to-path
+523 silly mapToRegistry name file-uri-to-path
+524 silly mapToRegistry using default registry
+525 silly mapToRegistry registry https://registry.npmjs.org/
+526 silly mapToRegistry data Result {
+526 silly mapToRegistry   raw: 'file-uri-to-path',
+526 silly mapToRegistry   scope: null,
+526 silly mapToRegistry   name: 'file-uri-to-path',
+526 silly mapToRegistry   rawSpec: '',
+526 silly mapToRegistry   spec: 'latest',
+526 silly mapToRegistry   type: 'tag' }
+527 silly mapToRegistry uri https://registry.npmjs.org/file-uri-to-path
+528 verbose addNameVersion registry:https://registry.npmjs.org/file-uri-to-path not in flight; fetching
+529 silly gunzTarPerm extractEntry nan_typedarray_contents.h
+530 silly gunzTarPerm modified mode [ 'nan_typedarray_contents.h', 436, 420 ]
+531 silly gunzTarPerm extractEntry nan_weak.h
+532 silly gunzTarPerm modified mode [ 'nan_weak.h', 436, 420 ]
+533 verbose request uri https://registry.npmjs.org/file-uri-to-path
+534 verbose request no auth needed
+535 info attempt registry request try #1 at 11:55:07 PM
+536 verbose etag W/"a46a99a4fe2a6ff8e9e990ade23fa65e"
+537 verbose lastModified Sun, 27 May 2018 00:39:17 GMT
+538 http request GET https://registry.npmjs.org/file-uri-to-path
+539 silly gunzTarPerm extractEntry nan.h
+540 silly gunzTarPerm modified mode [ 'nan.h', 436, 420 ]
+541 silly gunzTarPerm extractEntry README.md
+542 silly gunzTarPerm modified mode [ 'README.md', 436, 420 ]
+543 silly gunzTarPerm extractEntry doc/asyncworker.md
+544 silly gunzTarPerm modified mode [ 'doc/asyncworker.md', 436, 420 ]
+545 silly gunzTarPerm extractEntry doc/buffers.md
+546 silly gunzTarPerm modified mode [ 'doc/buffers.md', 436, 420 ]
+547 silly gunzTarPerm extractEntry doc/callback.md
+548 silly gunzTarPerm modified mode [ 'doc/callback.md', 436, 420 ]
+549 silly gunzTarPerm extractEntry doc/converters.md
+550 silly gunzTarPerm modified mode [ 'doc/converters.md', 436, 420 ]
+551 silly gunzTarPerm extractEntry doc/errors.md
+552 silly gunzTarPerm modified mode [ 'doc/errors.md', 436, 420 ]
+553 silly gunzTarPerm extractEntry doc/json.md
+554 silly gunzTarPerm modified mode [ 'doc/json.md', 436, 420 ]
+555 silly gunzTarPerm extractEntry doc/maybe_types.md
+556 silly gunzTarPerm modified mode [ 'doc/maybe_types.md', 436, 420 ]
+557 silly gunzTarPerm extractEntry doc/methods.md
+558 silly gunzTarPerm modified mode [ 'doc/methods.md', 436, 420 ]
+559 silly gunzTarPerm extractEntry doc/new.md
+560 silly gunzTarPerm modified mode [ 'doc/new.md', 436, 420 ]
+561 silly gunzTarPerm extractEntry doc/node_misc.md
+562 silly gunzTarPerm modified mode [ 'doc/node_misc.md', 436, 420 ]
+563 silly gunzTarPerm extractEntry doc/object_wrappers.md
+564 silly gunzTarPerm modified mode [ 'doc/object_wrappers.md', 436, 420 ]
+565 silly gunzTarPerm extractEntry doc/persistent.md
+566 silly gunzTarPerm modified mode [ 'doc/persistent.md', 436, 420 ]
+567 silly gunzTarPerm extractEntry doc/scopes.md
+568 silly gunzTarPerm modified mode [ 'doc/scopes.md', 436, 420 ]
+569 silly gunzTarPerm extractEntry doc/script.md
+570 silly gunzTarPerm modified mode [ 'doc/script.md', 436, 420 ]
+571 silly gunzTarPerm extractEntry doc/string_bytes.md
+572 silly gunzTarPerm modified mode [ 'doc/string_bytes.md', 436, 420 ]
+573 silly gunzTarPerm extractEntry doc/v8_internals.md
+574 silly gunzTarPerm modified mode [ 'doc/v8_internals.md', 436, 420 ]
+575 silly gunzTarPerm extractEntry doc/v8_misc.md
+576 silly gunzTarPerm modified mode [ 'doc/v8_misc.md', 436, 420 ]
+577 silly gunzTarPerm extractEntry tools/1to2.js
+578 silly gunzTarPerm modified mode [ 'tools/1to2.js', 509, 493 ]
+579 silly gunzTarPerm extractEntry tools/package.json
+580 silly gunzTarPerm modified mode [ 'tools/package.json', 436, 420 ]
+581 silly gunzTarPerm extractEntry tools/README.md
+582 silly gunzTarPerm modified mode [ 'tools/README.md', 436, 420 ]
+583 http 304 https://registry.npmjs.org/file-uri-to-path
+584 verbose headers { date: 'Mon, 01 Jul 2019 18:25:09 GMT',
+584 verbose headers   connection: 'keep-alive',
+584 verbose headers   'set-cookie': [ '__cfduid=d1a76d8436bb34348e92d67c8df1673041562005509; expires=Tue, 30-Jun-20 18:25:09 GMT; path=/; domain=.npmjs.org; HttpOnly' ],
+584 verbose headers   'cf-cache-status': 'HIT',
+584 verbose headers   'cache-control': 'max-age=300',
+584 verbose headers   'cf-ray': '4efa6bc02a16aada-MAA',
+584 verbose headers   age: '5347',
+584 verbose headers   etag: '"a46a99a4fe2a6ff8e9e990ade23fa65e"',
+584 verbose headers   'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+584 verbose headers   'last-modified': 'Sun, 27 May 2018 00:39:17 GMT',
+584 verbose headers   vary: 'accept-encoding, accept',
+584 verbose headers   server: 'cloudflare' }
+585 silly get cb [ 304,
+585 silly get   { date: 'Mon, 01 Jul 2019 18:25:09 GMT',
+585 silly get     connection: 'keep-alive',
+585 silly get     'set-cookie': [ '__cfduid=d1a76d8436bb34348e92d67c8df1673041562005509; expires=Tue, 30-Jun-20 18:25:09 GMT; path=/; domain=.npmjs.org; HttpOnly' ],
+585 silly get     'cf-cache-status': 'HIT',
+585 silly get     'cache-control': 'max-age=300',
+585 silly get     'cf-ray': '4efa6bc02a16aada-MAA',
+585 silly get     age: '5347',
+585 silly get     etag: '"a46a99a4fe2a6ff8e9e990ade23fa65e"',
+585 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+585 silly get     'last-modified': 'Sun, 27 May 2018 00:39:17 GMT',
+585 silly get     vary: 'accept-encoding, accept',
+585 silly get     server: 'cloudflare' } ]
+586 verbose etag https://registry.npmjs.org/file-uri-to-path from cache
+587 verbose get saving file-uri-to-path to /Users/ravikumarguru/.npm/registry.npmjs.org/file-uri-to-path/.cache.json
+588 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+589 silly cache afterAdd file-uri-to-path@1.0.0
+590 verbose afterAdd /Users/ravikumarguru/.npm/file-uri-to-path/1.0.0/package/package.json not in flight; writing
+591 verbose correctMkdir /Users/ravikumarguru/.npm correctMkdir not in flight; initializing
+592 verbose afterAdd /Users/ravikumarguru/.npm/file-uri-to-path/1.0.0/package/package.json written
+593 silly install resolved [ { name: 'file-uri-to-path',
+593 silly install resolved     version: '1.0.0',
+593 silly install resolved     description: 'Convert a file: URI to a file path',
+593 silly install resolved     main: 'index.js',
+593 silly install resolved     types: 'index.d.ts',
+593 silly install resolved     directories: { test: 'test' },
+593 silly install resolved     scripts: { test: 'mocha --reporter spec' },
+593 silly install resolved     repository:
+593 silly install resolved      { type: 'git',
+593 silly install resolved        url: 'git://github.com/TooTallNate/file-uri-to-path.git' },
+593 silly install resolved     keywords: [ 'file', 'uri', 'convert', 'path' ],
+593 silly install resolved     author:
+593 silly install resolved      { name: 'Nathan Rajlich',
+593 silly install resolved        email: 'nathan@tootallnate.net',
+593 silly install resolved        url: 'http://n8.io/' },
+593 silly install resolved     license: 'MIT',
+593 silly install resolved     bugs: { url: 'https://github.com/TooTallNate/file-uri-to-path/issues' },
+593 silly install resolved     homepage: 'https://github.com/TooTallNate/file-uri-to-path',
+593 silly install resolved     devDependencies: { mocha: '3' },
+593 silly install resolved     gitHead: 'db012b4db2c9da9f6eeb5202b4a493450482e0e4',
+593 silly install resolved     _id: 'file-uri-to-path@1.0.0',
+593 silly install resolved     _npmVersion: '5.0.3',
+593 silly install resolved     _nodeVersion: '8.1.2',
+593 silly install resolved     _npmUser: { name: 'tootallnate', email: 'nathan@tootallnate.net' },
+593 silly install resolved     dist:
+593 silly install resolved      { integrity: 'sha512-0Zt+s3L7Vf1biwWZ29aARiVYLx7iMGnEUl9x33fbB/j3jR81u/O2LbqK+Bm1CDSNDKVtJ/YjwY7TUd5SkeLQLw==',
+593 silly install resolved        shasum: '553a7b8446ff6f684359c445f1e37a05dacc33dd',
+593 silly install resolved        tarball: 'https://registry.npmjs.org/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz' },
+593 silly install resolved     maintainers: [ [Object] ],
+593 silly install resolved     _npmOperationalInternal:
+593 silly install resolved      { host: 's3://npm-registry-packages',
+593 silly install resolved        tmp: 'tmp/file-uri-to-path-1.0.0.tgz_1499377910342_0.7947268672287464' },
+593 silly install resolved     _shasum: '553a7b8446ff6f684359c445f1e37a05dacc33dd',
+593 silly install resolved     _resolved: 'https://registry.npmjs.org/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz',
+593 silly install resolved     _from: 'file-uri-to-path@1.0.0',
+593 silly install resolved     readme: 'ERROR: No README data found!' } ]
+594 info install file-uri-to-path@1.0.0 into /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings
+595 info installOne file-uri-to-path@1.0.0
+596 verbose installOne of file-uri-to-path to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings not in flight; installing
+597 verbose correctMkdir /Users/ravikumarguru/.npm/_locks correctMkdir not in flight; initializing
+598 verbose lock using /Users/ravikumarguru/.npm/_locks/file-uri-to-path-90f0f99400014e63.lock for /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path
+599 silly install write writing file-uri-to-path 1.0.0 to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path
+600 verbose unbuild node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path
+601 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path is being purged from base /Users/ravikumarguru/Rupeek_assignment
+602 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path
+603 verbose tar unpack /Users/ravikumarguru/.npm/file-uri-to-path/1.0.0/package.tgz
+604 verbose tar unpacking to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path
+605 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path is being purged
+606 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path
+607 silly gunzTarPerm modes [ '755', '644' ]
+608 silly gunzTarPerm extractEntry package.json
+609 silly gunzTarPerm extractEntry .npmignore
+610 silly gunzTarPerm extractEntry README.md
+611 silly gunzTarPerm extractEntry LICENSE
+612 silly gunzTarPerm extractEntry index.js
+613 silly gunzTarPerm extractEntry .travis.yml
+614 silly gunzTarPerm extractEntry index.d.ts
+615 silly gunzTarPerm extractEntry History.md
+616 silly gunzTarPerm extractEntry test/test.js
+617 silly gunzTarPerm extractEntry test/tests.json
+618 verbose write writing to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path/package.json
+619 info preinstall file-uri-to-path@1.0.0
+620 verbose readDependencies loading dependencies from /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path/package.json
+621 verbose readDependencies loading dependencies from /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path/package.json
+622 silly install resolved []
+623 verbose about to build /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path
+624 info build /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path
+625 info linkStuff file-uri-to-path@1.0.0
+626 silly linkStuff file-uri-to-path@1.0.0 has /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules as its parent node_modules
+627 verbose linkBins file-uri-to-path@1.0.0
+628 verbose linkMans file-uri-to-path@1.0.0
+629 verbose rebuildBundles file-uri-to-path@1.0.0
+630 info install file-uri-to-path@1.0.0
+631 info postinstall file-uri-to-path@1.0.0
+632 verbose unlock done using /Users/ravikumarguru/.npm/_locks/file-uri-to-path-90f0f99400014e63.lock for /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings/node_modules/file-uri-to-path
+633 verbose about to build /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings
+634 info build /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings
+635 info linkStuff bindings@1.5.0
+636 silly linkStuff bindings@1.5.0 has /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules as its parent node_modules
+637 verbose write writing to /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan/package.json
+638 verbose linkBins bindings@1.5.0
+639 verbose linkMans bindings@1.5.0
+640 verbose rebuildBundles bindings@1.5.0
+641 verbose rebuildBundles [ 'file-uri-to-path' ]
+642 info install bindings@1.5.0
+643 info postinstall bindings@1.5.0
+644 info preinstall nan@2.14.0
+645 verbose unlock done using /Users/ravikumarguru/.npm/_locks/bindings-6917813e50b7429c.lock for /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/bindings
+646 verbose readDependencies loading dependencies from /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan/package.json
+647 verbose readDependencies loading dependencies from /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan/package.json
+648 silly install resolved []
+649 verbose about to build /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan
+650 info build /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan
+651 info linkStuff nan@2.14.0
+652 silly linkStuff nan@2.14.0 has /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules as its parent node_modules
+653 verbose linkBins nan@2.14.0
+654 verbose linkMans nan@2.14.0
+655 verbose rebuildBundles nan@2.14.0
+656 info install nan@2.14.0
+657 info postinstall nan@2.14.0
+658 verbose unlock done using /Users/ravikumarguru/.npm/_locks/nan-705f3c2b2a0d9b8c.lock for /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat/node_modules/nan
+659 verbose about to build /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+660 info build /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+661 info linkStuff node-expat@2.3.18
+662 silly linkStuff node-expat@2.3.18 has /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules as its parent node_modules
+663 verbose linkBins node-expat@2.3.18
+664 verbose linkMans node-expat@2.3.18
+665 verbose rebuildBundles node-expat@2.3.18
+666 verbose rebuildBundles [ 'bindings', 'nan' ]
+667 info install node-expat@2.3.18
+668 verbose unsafe-perm in lifecycle true
+669 info node-expat@2.3.18 Failed to exec install script
+670 verbose unlock done using /Users/ravikumarguru/.npm/_locks/node-expat-bfec6ea5dced569d.lock for /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+671 verbose about to build /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json
+672 verbose unlock done using /Users/ravikumarguru/.npm/_locks/xml2json-e05aa0d035b2b353.lock for /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json
+673 verbose stack Error: node-expat@2.3.18 install: `node-gyp rebuild`
+673 verbose stack Exit status 1
+673 verbose stack     at EventEmitter.<anonymous> (/Users/ravikumarguru/.nvm/versions/node/v4.5.0/lib/node_modules/npm/lib/utils/lifecycle.js:217:16)
+673 verbose stack     at emitTwo (events.js:87:13)
+673 verbose stack     at EventEmitter.emit (events.js:172:7)
+673 verbose stack     at ChildProcess.<anonymous> (/Users/ravikumarguru/.nvm/versions/node/v4.5.0/lib/node_modules/npm/lib/utils/spawn.js:24:14)
+673 verbose stack     at emitTwo (events.js:87:13)
+673 verbose stack     at ChildProcess.emit (events.js:172:7)
+673 verbose stack     at maybeClose (internal/child_process.js:829:16)
+673 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+674 verbose pkgid node-expat@2.3.18
+675 verbose cwd /Users/ravikumarguru/Rupeek_assignment
+676 error Darwin 18.6.0
+677 error argv "/Users/ravikumarguru/.nvm/versions/node/v4.5.0/bin/node" "/Users/ravikumarguru/.nvm/versions/node/v4.5.0/bin/npm" "install" "xml2json" "--save"
+678 error node v4.5.0
+679 error npm  v2.15.9
+680 error code ELIFECYCLE
+681 error node-expat@2.3.18 install: `node-gyp rebuild`
+681 error Exit status 1
+682 error Failed at the node-expat@2.3.18 install script 'node-gyp rebuild'.
+682 error This is most likely a problem with the node-expat package,
+682 error not with npm itself.
+682 error Tell the author that this fails on your system:
+682 error     node-gyp rebuild
+682 error You can get information on how to open an issue for this project with:
+682 error     npm bugs node-expat
+682 error Or if that isn't available, you can get their info via:
+682 error
+682 error     npm owner ls node-expat
+682 error There is likely additional logging output above.
+683 verbose exit [ 1, true ]
+684 verbose unbuild node_modules/xml2json/node_modules/node-expat
+685 info preuninstall node-expat@2.3.18
+686 info uninstall node-expat@2.3.18
+687 verbose unbuild rmStuff node-expat@2.3.18 from /Users/ravikumarguru/Rupeek_assignment/node_modules
+688 verbose unbuild rmStuff in /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules
+689 info postuninstall node-expat@2.3.18
+690 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat is being purged from base /Users/ravikumarguru/Rupeek_assignment
+691 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+692 silly vacuum-fs purging /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules/node-expat
+693 silly vacuum-fs removing /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json/node_modules
+694 silly vacuum-fs quitting because other entries in /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json
+695 verbose unbuild node_modules/xml2json
+696 info preuninstall xml2json@0.11.2
+697 info uninstall xml2json@0.11.2
+698 verbose unbuild rmStuff xml2json@0.11.2 from /Users/ravikumarguru/Rupeek_assignment/node_modules
+699 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/.bin/xml2json is being gently removed
+700 silly gentlyRm verifying /Users/ravikumarguru/Rupeek_assignment is an npm working directory
+701 silly gentlyRm containing path /Users/ravikumarguru/Rupeek_assignment is under npm's control, in /Users/ravikumarguru/Rupeek_assignment
+702 silly gentlyRm deletion target /Users/ravikumarguru/Rupeek_assignment/node_modules/.bin/xml2json is under /Users/ravikumarguru/Rupeek_assignment
+703 verbose gentlyRm vacuuming from /Users/ravikumarguru/Rupeek_assignment/node_modules/.bin/xml2json up to /Users/ravikumarguru/Rupeek_assignment
+704 silly vacuum-fs removing /Users/ravikumarguru/Rupeek_assignment/node_modules/.bin/xml2json
+705 silly vacuum-fs quitting because other entries in /Users/ravikumarguru/Rupeek_assignment/node_modules/.bin
+706 info postuninstall xml2json@0.11.2
+707 silly gentlyRm /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json is being purged from base /Users/ravikumarguru/Rupeek_assignment
+708 verbose gentlyRm don't care about contents; nuking /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json
+709 silly vacuum-fs purging /Users/ravikumarguru/Rupeek_assignment/node_modules/xml2json
+710 silly vacuum-fs quitting because other entries in /Users/ravikumarguru/Rupeek_assignment/node_modules
